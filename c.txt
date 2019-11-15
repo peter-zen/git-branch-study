@@ -1,3 +1,4 @@
 this is c.txt file.
 modify at notebook.
 add another line.
+modify at PC.
